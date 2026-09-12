@@ -1,0 +1,11 @@
+Project_ID,Project_Name,Constituency_District,Implementing_Agency,Sanctioned_Outlay_Lakhs,Spent_Amount_Lakhs,Completion_Status,AI_Risk_Score,Primary_Anomaly_Type
+MPL-2026-GJ01,Construction of Rural Approach Road & Drainage,Ahmedabad North,District Rural Dev Agency (DRDA),75.0,74.2,Completed,12,None / Normal
+MPL-2026-GJ02,Installation of High-Mast Solar Street Lights,Vadodara,Surya Renewable Infra Pvt Ltd,25.0,43.5,In Progress,88,Severe Budget Overrun
+MPL-2026-GJ03,Upgradation & Equipment for Sub-District Hospital,Rajkot,MedTech Civil Corp,120.0,118.0,Completed,15,None / Normal
+MPL-2026-GJ04,Community Drinking Water RO Plant Establishment,Surat South,Jal Vikas Nigam,45.0,44.8,Completed,8,None / Normal
+MPL-2026-GJ05,Construction of Village Multi-Purpose Hall,Surat North,Apex Civil Works,90.0,90.0,Delayed,92,Duplicate Disbursement Flag
+MPL-2026-GJ06,Smart Computer Lab Setup in Govt Higher Secondary,Gandhinagar,Edutech Solutions,35.0,4.5,Delayed,85,Fund Underutilization (12%)
+MPL-2026-GJ07,Emergency Trauma Ward Construction,Ahmedabad South,Apex Civil Works,210.0,265.0,In Progress,96,Cost Escalation & Vendor Clustering
+MPL-2026-GJ08,Public Park and Sports Complex Development,Bhavnagar,GreenEarth Infra,60.0,58.0,Completed,10,None / Normal
+MPL-2026-GJ09,Solar Street Lights - Phase 2,Vadodara,Surya Renewable Infra Pvt Ltd,25.0,25.0,Completed,78,Duplicate Vendor Pattern
+MPL-2026-GJ10,Gram Panchayat Digital Library Building,Kheda,District Magistrate Nodal Office,30.0,29.1,Completed,14,None / Normal
